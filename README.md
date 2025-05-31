@@ -12,7 +12,7 @@
   2) вывод показаний датчика
   3) меню настроек с возможностью изменения минимального порога температуры, а также настроек точки доступа (имя сети WiFi, пароль)
 
-![Главная страница веб-интерфейса](Thermostat_screentshots/main_pc.png)
+![Главная страница веб-интерфейса](main_pc.png)
 ![Страница опций](Thermostat_screentshots/options_pc.png)
 ![Информация о процессе разработки данного устройства](Thermostat_screentshots/news_pc.png)
 ![Информация об авторе проекта](Thermostat_screentshots/contacts_pc.png)
